@@ -6,14 +6,14 @@ iniciado na Universidade do Estasdo de Mato Grosso.*
 
 
 ## Technology
--Inicialmente foi utilizado JavaWeb V1.0
--Posteriormente na será utilizado PHP V2.0
+- Inicialmente foi utilizado JavaWeb V1.0
+- Posteriormente na será utilizado PHP V2.0
 ## Libs
---V2.0 Bootstrap (fron-end) 
---V2.0 Framework7 (fron-end) 
---V2.0 JQuery (fron-end) 
+-- V2.0 Bootstrap (fron-end) 
+-- V2.0 Framework7 (fron-end) 
+-- V2.0 JQuery (fron-end) 
 ## DB
---MySQL
+-- MySQL
 
 ## Description
 -
