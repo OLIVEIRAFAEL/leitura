@@ -17,12 +17,11 @@ iniciado na Universidade do Estasdo de Mato Grosso.*
 
 ## Description
 -
-## About
+## About and Objective
 - O Sistema de Análise e Controle de Leitura Virtual é uma
 ferramenta que tem como objetivo promover à autoaprendizagem monitorada,
 possibilitando que os docentes da educação disponibilizem via internet materiais para
 estudo dos alunos.
-## Objective
 
 -
 ## License
