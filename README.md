@@ -1,7 +1,7 @@
 # Sistema de Análise e Controle de Leitura Virtual
 *Projeto de uso acadêmico da bolsa de Iniciação a pesquisa cientifica,
 iniciado na Universidade do Estasdo de Mato Grosso.*
-<p align="center" ><img width="400" height="400" src="http://pesquisa.unemat.br:8080/ler/img/Model%2002.2.png"></p>
+<p align="center" ><img width="400" height="400" src="https://github.com/OLIVEIRAFAEL/leitura/blob/master/images/logo.png"></p>
 
 
 
