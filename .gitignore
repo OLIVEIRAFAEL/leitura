@@ -10,5 +10,4 @@
 ad.js
 TODO
 test.html
-/com/php/model/Config.php
-/com/php/model/DataBase.php
+/com/php/model/*.php

@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "almasaeed2010/adminlte",
   "description": "AdminLTE - admin control panel and dashboard that's based on Bootstrap 3",
   "homepage": "http://almsaeedstudio.com/",
@@ -24,3 +25,8 @@
     "issues": "https://github.com/almasaeed2010/AdminLTE/issues"
   }
 }
+=======
+    "composer.executablePath": "C:\\ProgramData\\ComposerSetup\\bin\\composer.bat",
+    "require": {}
+}
+>>>>>>> 53fb60482addb86b295a08fb90af467a96712f91
