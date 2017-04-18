@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'Bariol';
+  src: url('fonts/bariol_regular-webfont.eot');
+  src: url('fonts/bariol_regular-webfont.woff') format('woff'),
+       url('fonts/bariol_regular-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.form-nice {
+
+}
+
+.form-nice label {
+	font-family: Bariol;
+	font-size: 14px;
+}
+
+.form-nice input[type="text"],input[type="password"],input[type="number"],input[type="date"],input[type="email"]{
+	background-color:#f2f2f2 !important;
+    border:1px solid #bababa !important;    
+    border-radius: 10px !important;
+    height: 50px !important;
+}
+
+.form-nice select{
+	background-color:#f2f2f2;
+    border:1px solid #bababa;    
+    border-radius: 10px;
+    height: 50px;
+}
+
+.form-control {
+  width: 100%;
+}
+
+.font-bariol {
+  font-family: Bariol;
+}
