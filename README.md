@@ -16,7 +16,7 @@ iniciado na Universidade do Estasdo de Mato Grosso.*
 - MySQL
 
 ## Description
--
+- Versão disponibilizada V2.0
 ## About and Objective
 - O Sistema de Análise e Controle de Leitura Virtual é uma
 ferramenta que tem como objetivo promover à autoaprendizagem monitorada,
