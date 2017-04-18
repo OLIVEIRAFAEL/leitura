@@ -14,9 +14,9 @@ class DataBase {
     
     //Constructor
     //*/
-    public function __construct($user = 'root', $pass = '', $bd = 'ler',$server = 'localhost')
+    public function __construct($user = '', $pass = '', $bd = '',$server = '')
     /*/
-    public function __construct($user = 'ler', $pass = '<add pass>', $bd = 'ler',$server = 'localhost')
+    public function __construct($user = '', $pass = '<add pass>', $bd = '',$server = '')
     //*/
     {
         $this->sql = array();
