@@ -18,10 +18,10 @@ class Config {
         }
 
         //*/
-            $this->url = "<SUA URL LOCAL>";
+            $this->url = "http://localhost/leitura/";
             $this->pastaRoot = $_SERVER['DOCUMENT_ROOT'].'/leitura/';
         /*/
-            $this->url = "<SUA URL EXTERNA>";
+            $this->url = "http://pesquisa.unemat.br/leitura/";
             $this->pastaRoot = $_SERVER['DOCUMENT_ROOT'].'/leitura/';
         //*/
         $this->titleSite = "Balestrin";
